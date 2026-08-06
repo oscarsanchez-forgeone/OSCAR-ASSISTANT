@@ -10,3 +10,8 @@
 - Número de versión visible en Configuración.
 - Caché de la PWA actualizado para forzar la publicación de la nueva versión.
 - Conserva los datos existentes del dispositivo.
+
+## v1.1.2
+- Paquete raíz sin carpeta interna.
+- Archivo marcador VERSION-1.1.2.txt para confirmar la copia.
+- Caché PWA renovada.

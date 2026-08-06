@@ -1,0 +1,3 @@
+OSCAR ASSISTANT VERSION 1.1.2
+Actualización: estados, idiomas, navegación fija y compartir por WhatsApp.
+Este archivo nuevo debe aparecer en GitHub Desktop como Added.
