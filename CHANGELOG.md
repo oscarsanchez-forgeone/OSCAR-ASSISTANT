@@ -1,12 +1,12 @@
-# Oscar Assistant v1.1.0
+# Oscar Assistant v1.1.1
 
-- Estados visuales: Pendiente, En revisión y Completado.
-- Burbuja con total de pendientes.
-- Barra inferior fija: Inicio, Proyectos, Pendientes, Realizadas y Más.
-- Botón X en ventanas secundarias.
-- Vista independiente de tareas realizadas.
-- Vista previa profesional antes de compartir por WhatsApp.
-- Selector ES / EN / FR exclusivo para el mensaje compartido.
-- Controles para mostrar u ocultar fecha, prioridad y proyecto.
-- Idioma general Español / English / Français, recordado en el dispositivo.
-- Conserva los datos existentes del usuario.
+- Actualización real basada en el proyecto del usuario.
+- Mensaje de WhatsApp más limpio y profesional.
+- El título del pendiente siempre aparece en el mensaje.
+- El proyecto ya no se comparte por defecto.
+- Fecha y prioridad siguen siendo opcionales.
+- Vista previa ES / EN / FR conservada.
+- Barra inferior fija y botón X conservados en ventanas secundarias.
+- Número de versión visible en Configuración.
+- Caché de la PWA actualizado para forzar la publicación de la nueva versión.
+- Conserva los datos existentes del dispositivo.
